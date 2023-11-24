@@ -1,2 +1,1 @@
-# wordgame
-wordgame
+대나무
